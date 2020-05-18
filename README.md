@@ -1,2 +1,7 @@
 # hello-world
-Another repository just like the others
+
+Hello!
+
+I'm abstrct84 and this is my first time coding. 
+
+Cheers to the future.
